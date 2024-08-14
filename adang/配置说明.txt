@@ -1,0 +1,7 @@
+clan://localhost/自己文件夹名字/adang/4k本地.json
+
+把"自己文件夹名字"替换成你自己的文件夹名字。
+
+
+如果直接解压在手机主目录下配置地址
+clan://localhost/adang/本地.json
